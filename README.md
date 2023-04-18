@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Abdulwasiu Oluwatobi Fasasi</h1>
 <h3 align="center">I am passionate about creating scalable and user-friendly web applications.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=fasasi&label=Profile%20views&color=0e75b6&style=flat" alt="oluwatobi-fasasi" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=oluwatobi-fasasi&label=Profile%20views&color=0e75b6&style=flat" alt="oluwatobi-fasasi" /> </p>
 
 - 🔭 I’m currently working **to become a better software developer.**
 
