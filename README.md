@@ -3,7 +3,7 @@
 **oluwatobi-fasasi/oluwatobi-fasasi**
 
 
-  - 📷 lookingFor: Front-end developer" || "Full-stack web developer.
-  - 🍸 code: JavaScript,HTML/CSS, Semantic UI, Bootstrap.
-  - 🪑 challenge: I am honing my JavaScript skills and picking up React.
+- 🔭 I’m currently working to become a better software developer.
+- 🌱 I’m currently learning remotely at Microverse...
+- 👯 I’m looking to collaborate on any front-end project...
 
