@@ -1,4 +1,5 @@
-![I'm Fasasi](https://user-images.githubusercontent.com/106747387/232742470-9e7f0c04-9a44-42bf-bca6-b4fb2fc46ce9.png)
+![I'm Fasasi (1)](https://user-images.githubusercontent.com/106747387/232743416-09f28b82-e19d-4541-8d9a-1c9b13d26294.png)
+
 
 ### About me👋
 
